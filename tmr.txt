@@ -1,0 +1,509 @@
+<html class="mdc-typography" lang="es"><head>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Escuchar Radio Sicuani en vivo</title>
+  
+  <meta name="description" content="Escuchar Radio Sicuani en vivo. Todas las emisoras de radio en vivo para escuchar gratis en radiosdelperu.pe.">
+  <link rel="canonical" href="http://www.radiosdelperu.pe/radio-sicuani">
+  <meta name="viewport" content="width=device-width, minimal-ui, initial-scale=1, maximum-scale=5">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <meta name="Author" content="appmind.technologies@gmail.com">
+
+  
+
+  <link rel="dns-prefetch" href="//www.googletagservices.com">
+  
+
+  <link rel="shortcut icon" href="https://mytuner.global.ssl.fastly.net/static/ctr/images/country/pe.png" type="image/x-icon">
+
+  
+  <link rel="stylesheet" href="https://mytuner.global.ssl.fastly.net/static/ctr/material-design/material-components-web.min.css">
+  <style>
+  :root {
+    --mdc-theme-primary: #455A64;
+    --mdc-theme-accent: #CFD8DC;
+    --mdc-theme-background: #1C313A;
+    --mdc-theme-text-primary-on-primary: #ffffff;
+    --mdc-theme-text-secondary-on-primary: #cccccc;
+    --mdc-theme-text-primary-on-accent: #000000;
+    --mdc-theme-text-secondary-on-accent: #000000;
+    --mdc-theme-text-primary-on-background: #ffffff;
+    --mdc-theme-text-secondary-on-background: #cccccc;
+
+    --hyperlink-main-color: #dc322f;
+  }
+  </style>
+  <link rel="stylesheet" href="https://mytuner.global.ssl.fastly.net/static/ctr/css/packed_main.css">
+  
+<link rel="stylesheet" type="text/css" href="https://mytuner.global.ssl.fastly.net/static/ctr/css/packed_radio.css">
+
+  
+  
+  
+
+
+<script src="http://pagead2.googlesyndication.com/pagead/osd.js"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_rendering_276.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelement-and-player.min.js"></script>
+
+
+
+  
+<link rel="preload" href="https://adservice.google.com.pe/adsid/integrator.js?domain=www.radiosdelperu.pe" as="script"><script type="text/javascript" src="https://adservice.google.com.pe/adsid/integrator.js?domain=www.radiosdelperu.pe"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.radiosdelperu.pe" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.radiosdelperu.pe"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_276.js" async=""></script></head>
+<body>
+  
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  
+  
+googletag.cmd.push(function() {
+    googletag.defineSlot('/62660943/RadioPeru_desktop_radiolist/RadioPeru_desktop_radiodetail', [728, 90], 'div-gpt-ad-1543595167579-0').addService(googletag.pubads());
+    googletag.defineSlot('/62660943/RadioPeru_desktop_radiolist/RadioPeru_desktop_radiodetail', [300, 250], 'div-gpt-ad-1543595167579-1').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+                
+  
+   setInterval(function(){googletag.pubads().refresh();}, 240000);
+</script>
+
+  <script type="text/javascript" src="https://mytuner.global.ssl.fastly.net/static/ctr/js/packed.js"></script>
+  
+<script type="text/javascript" src="https://mytuner.global.ssl.fastly.net/static/ctr/js/packed_crypto.js"></script>
+
+  
+  
+  <div id="mt-header">
+  <div class="wrapper">
+    <div id="mobile-menu-btn" class="mobile"></div>
+    <div class="col-left">
+      <div class="logo"><a href="/"><img src="https://mytuner.global.ssl.fastly.net/static/ctr/images/country/pe.png" alt="Perú"></a></div>
+      <div id="menu">
+        <ul class="nav">
+          <li><a href="/" class="mdc-typography--title active">Emisoras</a></li>
+          <li><a href="/podcasts" class="mdc-typography--title">Podcasts</a></li>
+          <li><a href="/las-mejores-canciones" class="mdc-typography--title">Top 10</a></li>
+        </ul>
+        <div class="clearfix"></div>
+      </div>
+    </div>
+    <div class="col-right">
+      <form id="search-form" class="mdc-textfield mdc-textfield--upgraded" data-mdc-auto-init="MDCTextfield" action="/busca" method="get">
+        <input id="search-header-box" type="text" name="q" class="mdc-textfield__input mdc-theme--text-primary-on-background">
+        <label for="search-header-box" class="mdc-textfield__label mdc-theme--text-secondary-on-background mdc-typography--caption">
+          Buscar radio o podcast
+        </label>
+        <i onclick="submitSearchForm(false);" class="material-icons md-36 mdc-theme--text-secondary-on-primary search-button">search</i>
+      </form>
+      <i class="material-icons md-36 mdc-theme--text-secondary-on-primary search-button extras-menu-button" style="vertical-align:middle">more_vert</i>
+      <div class="mdc-menu-anchor">
+        <div class="mdc-simple-menu mdc-theme--primary-bg extras-menu" tabindex="-1">
+          <div class="mdc-simple-menu__items mdc-list" role="menu" aria-hidden="true">
+          <a class="mdc-list-item extra-menu-item" href="/privacy-policy" role="menuitem">Política de privacidad</a>
+          <a class="mdc-list-item extra-menu-item" href="/contact-us" role="menuitem">Contáctenos</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="mobile-header">
+  <i class="material-icons md-48 md-light header-menu-button">menu</i>
+  <div class="logo"><a href="/"><img src="https://mytuner.global.ssl.fastly.net/static/images/country/pe.png" alt="Perú"></a></div>
+  <div class="col-right">
+    <form id="search-form-mobile" class="mdc-textfield mdc-textfield--upgraded" data-mdc-auto-init="MDCTextfield" style="margin:0px;" action="/busca" method="get">
+      <input id="search-header-box-mobile" type="text" name="q" class="mdc-textfield__input mdc-theme--text-primary-on-background">
+      <label for="search-header-box-mobile" class="mdc-textfield__label mdc-theme--text-secondary-on-dark mdc-typography--caption search-header-box-mobile-label">
+        Buscar radio o podcast
+      </label>
+      <i onclick="submitSearchForm(true);" class="material-icons md-36 mdc-theme--text-secondary-on-background search-button">search</i>
+    </form>
+    <i class="material-icons md-36 mdc-theme--text-secondary-on-primary search-button extras-menu-button-mobile" style="vertical-align:middle">more_vert</i>
+    <div class="mdc-menu-anchor extra-menu-anchor">
+      <div class="mdc-simple-menu mdc-theme--primary-bg extras-menu-mobile" tabindex="-1">
+        <div class="mdc-simple-menu__items mdc-list" role="menu" aria-hidden="true">
+        <a class="mdc-list-item extra-menu-item" href="/privacy-policy" role="menuitem">Política de privacidad</a>
+        <a class="mdc-list-item extra-menu-item" href="mailto:appmind.technologies@gmail.com" role="menuitem">Contáctenos</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<aside class="mdc-temporary-drawer mdc-typography" style="--mdc-temporary-drawer-opacity:0;">
+  <nav class="mdc-temporary-drawer__drawer">
+    <div class="mdc-temporary-drawer__toolbar-spacer"></div>
+    <nav id="icon-with-text-demo" class="mdc-temporary-drawer__content mdc-list">
+      <a class="mdc-list-item mdc-temporary-drawer--selected  mdc-theme--text-secondary-on-background" href="/" data-mdc-tabindex-handled="true" tabindex="-1">
+        <i class="material-icons mdc-list-item__start-detail md-36" aria-hidden="true">radio</i>Emisoras</a>
+      <a class="mdc-list-item " href="/podcasts" data-mdc-tabindex-handled="true" tabindex="-1">
+        <i class="material-icons mdc-list-item__start-detail md-36" aria-hidden="true">headset</i>Podcasts</a>
+      <a class="mdc-list-item " href="/las-mejores-canciones" data-mdc-tabindex-handled="true" tabindex="-1">
+        <i class="material-icons mdc-list-item__start-detail md-36" aria-hidden="true">music_note</i>Top 10</a>
+    </nav>
+  </nav>
+</aside>
+
+<script type="text/javascript">
+function submitSearchForm(mobile) {
+  if(mobile) {
+    if($('#search-header-box-mobile').val())
+      document.forms['search-form-mobile'].submit();
+  }
+  else {
+    if($('#search-header-box').val())
+      document.forms['search-form'].submit();
+  }
+}
+
+$('#search-form').submit(function(e) {
+   if (!$('#search-header-box').val()) {
+       e.preventDefault();
+   }
+});
+
+$('#search-form-mobile').submit(function(e) {
+   if (!$('#search-header-box-mobile').val()) {
+       e.preventDefault();
+   }
+});
+</script>
+
+  
+<div class="main-content">
+  <div class="content-column-left">
+    <div class="top">
+      <div class="breadcrumbs">
+        <ul>
+          <li><a name="radio_home_list" href="/"><i class="material-icons">home</i></a></li>
+          <li><a name="radio_country_list" href="/">Perú</a></li>
+          
+          <li><a name="radio_city_list" href="/radio/cusco">Cusco</a></li>
+          
+        </ul>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+
+    <div class="ad-top-banner">
+      
+      
+<!-- /62660943/RadioPeru_desktop_radiolist/RadioPeru_desktop_radiodetail -->
+<div id="div-gpt-ad-1543595167579-0" style="height: 90px; width: 728px; display: none;" data-google-query-id="CMrqyJmQhd8CFU58wQod9AkIAg">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1543595167579-0'); });
+</script>
+<div id="google_ads_iframe_/62660943/RadioPeru_desktop_radiolist/RadioPeru_desktop_radiodetail_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/62660943/RadioPeru_desktop_radiolist/RadioPeru_desktop_radiodetail_0" title="3rd party ad content" name="google_ads_iframe_/62660943/RadioPeru_desktop_radiolist/RadioPeru_desktop_radiodetail_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" width="728" height="90" frameborder="0"></iframe></div></div>
+      
+    </div>
+
+    <div class="col-left-radio">
+      <div class="thumb"><img onclick="return update();" src="https://mytuner.global.ssl.fastly.net/media/tvos_radios/bkmdtyjlzxfh.png" alt="Radio Sicuani">
+        <button id="play-pause-button" onclick="return update();" class="mdc-fab material-icons md-36" aria-label="Play"><span id="player_icon" class="mdc-fab__icon">pause</span></button></div>
+        <div class="player" hidden="">
+          <span class="mejs__offscreen">Audio Player</span><div id="mep_0" class="mejs__container mejs__container-keyboard-inactive mejs__audio" tabindex="0" role="application" aria-label="Audio Player" style="width: 320px; height: 40px;"><div class="mejs__inner"><div class="mejs__mediaelement"><mediaelementwrapper id="radio-player"><audio id="radio-player_html5" preload="none" autoplay="false" style="max-width: 100%; width: 100%; height: 100%;" src="http://stm26.veemesoft.com.ar:20186/;"></audio></mediaelementwrapper></div><div class="mejs__layers"><div class="mejs__poster mejs__layer" style="display: none; width: 100%; height: 100%;"></div></div><div class="mejs__controls"><div class="mejs__button mejs__playpause-button mejs__pause"><button type="button" aria-controls="mep_0" title="Pause" aria-label="Pause" tabindex="0"></button></div><div class="mejs__time mejs__currenttime-container" role="timer" aria-live="off"><span class="mejs__currenttime">00:01</span></div><div class="mejs__time-rail"><span class="mejs__time-total mejs__time-slider" role="slider" tabindex="0" aria-label="Time Slider" aria-valuemin="0" aria-valuemax="NaN" aria-valuenow="0" aria-valuetext="00:00" style="display: none;"><span class="mejs__time-buffering" style="display: none;"></span><span class="mejs__time-loaded"></span><span class="mejs__time-current"></span><span class="mejs__time-hovered no-hover"></span><span class="mejs__time-handle"><span class="mejs__time-handle-content"></span></span><span class="mejs__time-float"><span class="mejs__time-float-current">00:00</span><span class="mejs__time-float-corner"></span></span></span><span class="mejs__broadcast">Live Broadcast</span></div><div class="mejs__time mejs__duration-container"><span class="mejs__duration">00:00</span></div><div class="mejs__button mejs__volume-button mejs__mute"><button type="button" aria-controls="mep_0" title="Mute" aria-label="Mute" tabindex="0"></button></div><a class="mejs__horizontal-volume-slider" href="javascript:void(0);" aria-label="Volume Slider" aria-valuemin="0" aria-valuemax="100" role="slider" aria-valuenow="80" aria-valuetext="80%"><span class="mejs__offscreen">Use Up/Down Arrow keys to increase or decrease volume.</span><div class="mejs__horizontal-volume-total"><div class="mejs__horizontal-volume-current" style="left: 0px; width: 80%;"></div><div class="mejs__horizontal-volume-handle" style="left: 80%;"></div></div></a></div></div></div>
+        </div>
+        <div class="jw"><div id="jw-player"></div></div>
+      </div>
+      <div class="col-right-radio">
+        <h1 class="mdc-typography--display1 mdc-theme--text-primary-on-background">Radio Sicuani en vivo</h1>
+        
+        <h2 class="slogan mdc-theme--text-secondary-on-background">La verdad en el corazon del pueblo</h2>
+        
+        <div class="categories mdc-theme--text-secondary-on-background"></div>
+        
+        <div class="website"><a href="http://www.radiosicuani.com/" target="_blank" rel="noopener">www.radiosicuani.com/</a></div>
+        
+
+        <div class="mdc-menu-anchor">
+          <button class="mdc-button mdc-button--raised mdc-button--primary mdc-ripple-surface share-button mdc-ripple-upgraded" data-mdc-auto-init="MDCRipple" style="--mdc-ripple-surface-width:117.10000610351562px; --mdc-ripple-surface-height:36px; --mdc-ripple-fg-size:70.26000366210937px; --mdc-ripple-fg-scale:1.8859780093464702;">Compartir</button>
+          <div class="mdc-simple-menu mdc-theme--primary-bg share-menu" tabindex="-1">
+            <ul class="mdc-simple-menu__items mdc-list" role="menu" aria-hidden="true">
+              <li class="mdc-list-item" onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A//www.radiosdelperu.pe/radio-sicuani')" role="menuitem" tabindex="0">
+                Facebook
+              </li>
+              <li class="mdc-list-item" onclick="window.open('http://twitter.com/share?text=Listening%20to%20Radio%20Sicuani%20using%20&amp;url=http%3A//www.radiosdelperu.pe/radio-sicuani')" role="menuitem" tabindex="0">
+                Twitter
+              </li>
+              <li class="mdc-list-item" onclick="window.open('https://plus.google.com/share?url=http%3A//www.radiosdelperu.pe/radio-sicuani')" role="menuitem" tabindex="0">
+                Google+
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+
+      <div class="mdc-theme--text-secondary-on-background radio-description">
+        
+      </div>
+      
+      <div class="frequency-container">
+        <h3 class="mdc-theme--text-primary-on-background">Frecuencias</h3>
+        <ul class="frequency-list">
+          
+          <li>
+            <div class="name mdc-theme--text-secondary-on-background"><a class="mdc-theme--text-secondary-on-background" href="/radio/cusco">Sicuani</a></div>
+            <div class="frequency mdc-theme--text-secondary-on-background">1360 AM</div>
+            <div class="clearfix"></div>
+          </li>
+          
+        </ul>
+      </div>
+      
+    </div>
+    <div class="extra-info-column mdc-elevation--z2">
+      
+      
+<!-- /62660943/RadioPeru_desktop_radiolist/RadioPeru_desktop_radiodetail -->
+<div id="div-gpt-ad-1543595167579-1" style="height:250px; width:300px;" data-google-query-id="CJqbzZmQhd8CFUZVwQodcyEFQw">
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1543595167579-1'); });
+</script>
+<div id="google_ads_iframe_/62660943/RadioPeru_desktop_radiolist/RadioPeru_desktop_radiodetail_1__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 250px;"><iframe style="border: 0px none; vertical-align: bottom;" src="http://tpc.googlesyndication.com/safeframe/1-0-31/html/container.html" id="google_ads_iframe_/62660943/RadioPeru_desktop_radiolist/RadioPeru_desktop_radiodetail_1" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" data-is-safeframe="true" data-google-container-id="2" data-load-complete="true" width="300" height="250" frameborder="0"></iframe></div></div>
+      
+
+      
+<h3 class="mdc-theme--text-primary-on-background">Radios relacionadas</h3>
+<div class="mdc-list mdc-list--avatar-list">
+  
+  <a href="/radio-santa-rosa" class="mdc-list-item mdc-ripple-upgraded" data-mdc-auto-init="MDCRipple" style="--mdc-ripple-surface-width:300px; --mdc-ripple-surface-height:70px; --mdc-ripple-fg-size:180px; --mdc-ripple-fg-scale:1.7669913111943736;">
+    <img class="mdc-list-item__start-detail" src="https://mytuner.global.ssl.fastly.net/media/radios-150px/pyeuat38kjwr.png" alt="Radio Santa Rosa" style="border-radius:10%">
+    <span class="mdc-list-item__text">Radio Santa Rosa</span>
+  </a>
+  <div class="mdc-list-divider"></div>
+  
+  <a href="/radio-solar-fm" class="mdc-list-item mdc-ripple-upgraded" data-mdc-auto-init="MDCRipple" style="--mdc-ripple-surface-width:300px; --mdc-ripple-surface-height:70px; --mdc-ripple-fg-size:180px; --mdc-ripple-fg-scale:1.7669913111943736;">
+    <img class="mdc-list-item__start-detail" src="https://mytuner.global.ssl.fastly.net/media/radios-150px/c6fcackvybu9.png" alt="Radio Solar FM" style="border-radius:10%">
+    <span class="mdc-list-item__text">Radio Solar FM</span>
+  </a>
+  <div class="mdc-list-divider"></div>
+  
+  <a href="/radio-altura" class="mdc-list-item mdc-ripple-upgraded" data-mdc-auto-init="MDCRipple" style="--mdc-ripple-surface-width:300px; --mdc-ripple-surface-height:70px; --mdc-ripple-fg-size:180px; --mdc-ripple-fg-scale:1.7669913111943736;">
+    <img class="mdc-list-item__start-detail" src="https://mytuner.global.ssl.fastly.net/media/radios-150px/vekzkxwtpwse.png" alt="Radio Altura" style="border-radius:10%">
+    <span class="mdc-list-item__text">Radio Altura</span>
+  </a>
+  <div class="mdc-list-divider"></div>
+  
+  <a href="/radio-cumbre" class="mdc-list-item mdc-ripple-upgraded" data-mdc-auto-init="MDCRipple" style="--mdc-ripple-surface-width:300px; --mdc-ripple-surface-height:70px; --mdc-ripple-fg-size:180px; --mdc-ripple-fg-scale:1.7669913111943736;">
+    <img class="mdc-list-item__start-detail" src="https://mytuner.global.ssl.fastly.net/media/radios-150px/xdwtyr4knzld.png" alt="Radio Cumbre" style="border-radius:10%">
+    <span class="mdc-list-item__text">Radio Cumbre</span>
+  </a>
+  <div class="mdc-list-divider"></div>
+  
+  <a href="/union-la-radio-1033-fm" class="mdc-list-item mdc-ripple-upgraded" data-mdc-auto-init="MDCRipple" style="--mdc-ripple-surface-width:300px; --mdc-ripple-surface-height:70px; --mdc-ripple-fg-size:180px; --mdc-ripple-fg-scale:1.7669913111943736;">
+    <img class="mdc-list-item__start-detail" src="https://mytuner.global.ssl.fastly.net/media/radios-150px/LnygXsRuwW.png" alt="Unión la Radio 103.3 FM" style="border-radius:10%">
+    <span class="mdc-list-item__text">Unión la Radio 103.3 FM</span>
+  </a>
+  <div class="mdc-list-divider"></div>
+  
+  <a href="/radio-panamericana" class="mdc-list-item mdc-ripple-upgraded" data-mdc-auto-init="MDCRipple" style="--mdc-ripple-surface-width:300px; --mdc-ripple-surface-height:70px; --mdc-ripple-fg-size:180px; --mdc-ripple-fg-scale:1.7669913111943736;">
+    <img class="mdc-list-item__start-detail" src="https://mytuner.global.ssl.fastly.net/media/radios-150px/xgbPEVhymn.png" alt="Panamericana Radio" style="border-radius:10%">
+    <span class="mdc-list-item__text">Panamericana Radio</span>
+  </a>
+  <div class="mdc-list-divider"></div>
+  
+  <a href="/rpp-noticias" class="mdc-list-item mdc-ripple-upgraded" data-mdc-auto-init="MDCRipple" style="--mdc-ripple-surface-width:300px; --mdc-ripple-surface-height:70px; --mdc-ripple-fg-size:180px; --mdc-ripple-fg-scale:1.7669913111943736;">
+    <img class="mdc-list-item__start-detail" src="https://mytuner.global.ssl.fastly.net/media/radios-150px/WkzScZeaR2.png" alt="RPP Noticias" style="border-radius:10%">
+    <span class="mdc-list-item__text">RPP Noticias</span>
+  </a>
+  <div class="mdc-list-divider"></div>
+  
+</div>
+
+
+      
+
+    </div>
+  </div>
+  <div id="last-update" data-timestamp="U"></div>
+  
+  
+  <script type="text/javascript" src="https://mytuner.global.ssl.fastly.net/static/ctr/material-design/material-components-web.min.js"></script>
+  
+  
+  <script>
+  var drawer = new mdc.drawer.MDCTemporaryDrawer(document.querySelector('.mdc-temporary-drawer'));
+  document.querySelector('.header-menu-button').addEventListener('click', () => drawer.open = !drawer.open);
+  var menu_extras = new mdc.menu.MDCSimpleMenu(document.querySelector('.extras-menu'));
+  var menu_extras_mobile = new mdc.menu.MDCSimpleMenu(document.querySelector('.extras-menu-mobile'));
+  document.querySelector('.extras-menu-button').addEventListener('click', () => {menu_extras.open = !menu_extras.open; menu_extras_mobile.open = !menu_extras_mobile.open;});
+  document.querySelector('.extras-menu-button-mobile').addEventListener('click', () => {menu_extras.open = !menu_extras.open; menu_extras_mobile.open = !menu_extras_mobile.open;});
+  
+var menu = new mdc.menu.MDCSimpleMenu(document.querySelector('.share-menu'));
+// Add event listener to some button to toggle the menu on and off.
+document.querySelector('.share-button').addEventListener('click', () => menu.open = !menu.open);
+
+  </script>
+  <script>window.mdc.autoInit();</script>
+
+  
+
+
+<script type="text/javascript">
+
+var only_mms = true;
+
+function formatPlaylist(playlist) {
+    var formated_playlist = [];
+    for (i = 0; i < playlist.length; i++) {
+        if(playlist[i]["type"].localeCompare("mms") != 0) {
+            var stream_iv = "/null/" + playlist[i]["iv"];
+            var cipher = "/null/" + playlist[i]["cipher"];
+            formated_playlist.push({file:d(stream_iv,cipher) , type:playlist[i]["type"]});
+            only_mms = false;
+        }
+    }
+
+    return formated_playlist;
+}
+
+var isPlaying = 0;  // 0 : is stopped; 1: is playing
+var next_index = 1; // playlist index
+var playStartDate = 0;
+var playlist = formatPlaylist([{"cipher": "DTzn5RhYitEvQ0aprkwKzti7LznxHYHu4Z8GNTiJ/WvCTS0/aNkiDvujLOXjaWuB", "type": "aac", "iv": "8feef269f1a74948e19d56b62735c4ca"}]);
+
+var media_player = new MediaElementPlayer('radio-player', {
+    renderers: ['html5', 'native_hls', 'flash_video', 'flash_audio', 'native_dash'], 
+    success: function (mediaElement, domObject) {
+        if(only_mms)
+          document.getElementById("player_icon").innerHTML = "warning";
+        else {
+          var sources = [
+            { src: playlist[0].file }
+          ];
+          document.getElementById("player_icon").innerHTML = "sync";
+          mediaElement.setSrc(sources);
+          mediaElement.load();
+          mediaElement.pause();
+        }
+    },
+    error: function (mediaElement, domObject) {
+    }
+});
+
+$('#radio-player').bind('canplay', function(e) { 
+    media_player.play();
+});
+
+$('#radio-player').bind('playing', function(e) { 
+    document.getElementById("player_icon").innerHTML = "pause";
+    ga('send', 'event', 'Play', 'http://www.radiosdelperu.pe/radio-sicuani');
+    playStartDate = new Date();
+    isPlaying = 1;
+});
+
+$('#radio-player').bind('pause', function(e) { 
+    document.getElementById("player_icon").innerHTML = "play_arrow";
+    isPlaying = 0; 
+    if(playStartDate !== 0) {
+        var elapsedTime = new Date();
+        elapsedTime = elapsedTime - playStartDate;
+        ga('send', 'timing', 'Play Time', 'http://www.radiosdelperu.pe/radio-sicuani', elapsedTime);
+        playStartDate = 0;
+    }
+});
+
+$('#radio-player').bind('ended', function(e) {
+    if(next_index < playlist.length) {
+        document.getElementById("player_icon").innerHTML = "sync";
+        var sources = [
+            { src: playlist[next_index++].file }
+        ];
+        media_player.setSrc(sources);
+        media_player.load();
+        media_player.play();
+    }
+    else {
+        document.getElementById("player_icon").innerHTML = "warning";
+    }
+});
+
+$('#radio-player').bind('error', function(e) { 
+    if(next_index < playlist.length) {
+        document.getElementById("player_icon").innerHTML = "sync";
+        var sources = [
+            { src: playlist[next_index++].file }
+        ];
+        media_player.setSrc(sources);
+        media_player.load();
+        media_player.play();
+    }
+    else {
+        document.getElementById("player_icon").innerHTML = "warning";
+        ga('send', 'event', 'Playback Error', 'http://www.radiosdelperu.pe/radio-sicuani');
+    }
+
+});
+
+function update() {
+    if (isPlaying == 0) {
+        document.getElementById("player_icon").innerHTML = "sync";
+
+        if(only_mms)
+          document.getElementById("player_icon").innerHTML = "warning";
+        else
+            media_player.play();
+    } else
+        media_player.pause();
+}
+
+window.onbeforeunload = function (event) {
+    if(playStartDate !== 0) {
+        var elapsedTime = new Date();
+        elapsedTime = elapsedTime - playStartDate;
+        ga('send', 'timing', 'Play Time', 'http://www.radiosdelperu.pe/radio-sicuani', elapsedTime);
+        playStartDate = 0;
+    }
+    isPlaying=0;
+};
+</script>
+
+
+
+  
+  
+
+
+  
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+   ga('create', 'UA-41201130-26', 'auto');
+   ga('send', 'pageview');
+ </script>
+
+ <script type="text/javascript">
+ $("a").on('click', function(e){
+     var url = $(this).attr("href");
+     if($.trim(url).indexOf("javascript:") == 0) return;
+     if (e.currentTarget.host != window.location.host) {
+         ga('send', 'event', 'Outbound Links', e.currentTarget.host, url, 0);
+         var target = $(this).attr("target");
+         if (e.metaKey || e.ctrlKey || target == "_blank") {
+              var newtab = true;
+         }
+         if (!newtab) {
+              e.preventDefault();
+             if(target) {
+                setTimeout('window.open("' + url + '", "' + target + '");', 100);
+             } else {
+                setTimeout('document.location = "' + url + '"', 100);
+             }
+         }
+     }
+ });
+ $(document).ready(function() {
+   $('.audioplayer').css('display','block');
+ });
+ </script>
+  
+<script async="" type="text/javascript" id="cookiebanner" data-close-text="Close" src="https://mytuner.global.ssl.fastly.net/static/ctr/js/cookiebanner.min.js"></script>
+
+
+<iframe id="google_osd_static_frame_8377999973919" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><div class="cookiebanner" style="position: fixed; left: 0px; right: 0px; height: auto; min-height: 21px; z-index: 255; background: rgb(0, 0, 0) none repeat scroll 0% 0%; color: rgb(221, 221, 221); line-height: 21px; padding: 5px 16px; font-family: arial, sans-serif; font-size: 14px; text-align: center; bottom: 0px; opacity: 1;"><div class="cookiebanner-close" style="float: right; padding-left: 5px; cursor: pointer;">Close</div><span>We use cookies to enhance your experience. By continuing to visit this site you agree to our use of cookies. <a href="http://aboutcookies.org" target="_blank" style="text-decoration: none; color: rgb(170, 170, 170);">Learn more</a></span></div></body></html>

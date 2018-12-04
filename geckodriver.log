@@ -1,0 +1,250 @@
+1543888472056	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C1fNJEM5cT1I"
+
+(firefox:10992): Gtk-WARNING **: 20:54:35.504: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:10992): Gtk-WARNING **: 20:54:35.504: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543888478941	Marionette	INFO	Listening on port 41229
+1543888479031	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1543888501412	Marionette	INFO	Stopped listening on port 41229
+1543888759459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SaAw97dBap8E"
+
+(firefox:11871): Gtk-WARNING **: 20:59:20.302: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:11871): Gtk-WARNING **: 20:59:20.302: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543888762165	Marionette	INFO	Listening on port 45939
+1543888762184	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543888915551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RdADU5iGMKtw"
+
+(firefox:12327): Gtk-WARNING **: 21:01:56.672: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12327): Gtk-WARNING **: 21:01:56.672: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543888918550	Marionette	INFO	Listening on port 36151
+1543888918636	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11871, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 11871, Gecko_IOThread] WARNING: pipe error (39): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543888937648	Marionette	INFO	Stopped listening on port 45939
+[Parent 12327, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12327, Gecko_IOThread] WARNING: pipe error (63): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543888942135	Marionette	INFO	Stopped listening on port 36151
+1543888975204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.P3uqeTrQOzHi"
+
+(firefox:12643): Gtk-WARNING **: 21:02:56.118: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:12643): Gtk-WARNING **: 21:02:56.118: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543888978197	Marionette	INFO	Listening on port 35607
+1543888978222	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Tried to send a 'tabDetached' event on an already destroyed actor 'frameTarget'"
+[Parent 12643, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12643, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 12643, Gecko_IOThread] WARNING: pipe error (109): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543889039592	Marionette	INFO	Stopped listening on port 35607
+1543889042437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YnLH0QhMADJp"
+
+(firefox:13013): Gtk-WARNING **: 21:04:03.222: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13013): Gtk-WARNING **: 21:04:03.222: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543889044943	Marionette	INFO	Listening on port 34207
+1543889045120	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+[Parent 13013, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13013, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543889495408	Marionette	INFO	Stopped listening on port 34207
+1543889560814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b44q1GtWc9eC"
+
+(firefox:13741): Gtk-WARNING **: 21:12:41.713: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13741): Gtk-WARNING **: 21:12:41.713: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543889563420	Marionette	INFO	Listening on port 36673
+1543889563427	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13741, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13741, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543889571080	Marionette	INFO	Stopped listening on port 36673
+1543889588639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UGdZyZo4vtOp"
+
+(firefox:13991): Gtk-WARNING **: 21:13:09.445: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:13991): Gtk-WARNING **: 21:13:09.445: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543889591198	Marionette	INFO	Listening on port 33513
+1543889591248	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543889962016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gRlJnS2xsMfh"
+
+(firefox:14398): Gtk-WARNING **: 21:19:22.814: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14398): Gtk-WARNING **: 21:19:22.814: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543889964674	Marionette	INFO	Listening on port 43157
+1543889964732	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14398, Gecko_IOThread] WARNING: pipe error (94): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14398, Gecko_IOThread] WARNING: pipe error (112): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14398, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543890000544	Marionette	INFO	Stopped listening on port 43157
+1543890030413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OmIpqL0Ru7O2"
+
+(firefox:14736): Gtk-WARNING **: 21:20:31.266: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:14736): Gtk-WARNING **: 21:20:31.266: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543890033087	Marionette	INFO	Listening on port 43213
+1543890033127	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14736, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 14736, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543890108531	Marionette	INFO	Stopped listening on port 43213
+1543890162301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.E0ZzVUPHgeH0"
+
+(firefox:15086): Gtk-WARNING **: 21:22:43.064: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15086): Gtk-WARNING **: 21:22:43.064: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543890164846	Marionette	INFO	Listening on port 34893
+1543890164926	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 15195, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543890299366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4crJlYZ4AZPm"
+
+(firefox:15441): Gtk-WARNING **: 21:25:00.242: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15441): Gtk-WARNING **: 21:25:00.242: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543890302047	Marionette	INFO	Listening on port 44137
+1543890302089	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15441, Gecko_IOThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15441, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15441, Gecko_IOThread] WARNING: pipe error (121): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543890316140	Marionette	INFO	Stopped listening on port 44137
+1543890463855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O8pLcs9JnUee"
+
+(firefox:15833): Gtk-WARNING **: 21:27:44.564: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:15833): Gtk-WARNING **: 21:27:44.564: Theme parsing error: <data>:1:76: Expected ')' in color definition
+1543890466343	Marionette	INFO	Listening on port 36967
+1543890466365	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 15833, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 15833, Gecko_IOThread] WARNING: pipe error (39): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543890484938	Marionette	INFO	Stopped listening on port 36967
+[Parent 13991, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13991, Gecko_IOThread] WARNING: pipe error (64): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 13991, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-JcIUVH/firefox-63.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1543899493146	Marionette	INFO	Stopped listening on port 33513
