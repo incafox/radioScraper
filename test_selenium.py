@@ -25,10 +25,10 @@ class ProductSpider(scrapy.Spider):
             #next = self.driver.find_element_by_xpath('//td[@class="pagn-next"]/a')
 
             #try:
-             #   next.click()
+             #      next.click()
 
                 # get the data and write it to scrapy items
             #except:
              #   break
 
-        self.driver.close()
+        #self.driver.close()
