@@ -1,0 +1,17 @@
+file = open('global_sources.txt','r')
+finalFile = open('sources.json','w')
+finalFile.write('{\n')
+lines = file.readlines()
+lines = list(set(lines))
+for line in lines:
+    temp = line.split('>>')
+    linkRadio = temp[0].replace(' ','')
+    linkStream = temp[1].replace("\n","").replace(' ','')
+    print (linkRadio,linkStream)
+    nombreRadio = linkRadio.split('/')[-1]
+    nombreRadio = nombreRadio.replace('-',' ')
+    print (nombreRadio)
+    finalFile.write('\t"' + nombreRadio + '" : {\n')
+    finalFile.write('\t\t' + '"link"' + ' : "' + linkRadio +'",\n' )
+    finalFile.write('\t\t' + '"source"' + ' : "' + linkStream[:]+ '"\n\t\t},\n' )
+    #finalFile.write('\t\t' + '}')
